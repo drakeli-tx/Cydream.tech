@@ -1,0 +1,18 @@
+{
+    "desc": "Highlights Video",
+
+    "videos": [
+        {
+            "author": "Clips From: jianzhe",
+            "file": "1.mp4",
+            "MD5": "bf040469241f7d108583335fe2520ba2",
+            "date": "Upload your highlight clips to Discord/Tiktok/Youtube/Reddit/Twitter and mention us. We'll put clips together in a video. It will be shown above with your name!"
+        },
+        {
+            "author": "Clips From: jianzhe, fonzie, drake",
+            "file": "2.mp4",
+            "MD5": "20bcf4cd7453fced6b68fa3e23054d70",
+            "date": "Upload your highlight clips to Discord/Tiktok/Youtube/Reddit/Twitter and mention us. We'll put clips together in a video. It will be shown above with your name!"
+        }
+    ]
+}
