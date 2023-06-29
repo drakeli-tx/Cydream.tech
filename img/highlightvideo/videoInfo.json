@@ -1,17 +1,17 @@
 {
-    "desc": "Highlights Video",
+    "desc": "Highlight Videos",
 
     "videos": [
         {
             "author": "Clips From: ChiassonMickael",
             "file": "1.mp4",
-            "MD5": "906a7f9c0ba3197f76bcc82a50bbfb33",
+            "MD5": "370f12cbcafbd5eb6449cbeece9a7fea",
             "date": "Upload your highlight clips to Discord/Tiktok/Youtube/Reddit/Twitter and mention us. We'll put clips together in a video. It will be shown above with your name!"
         },
         {
             "author": "Clips From: jianzhe, fonzie, drake",
             "file": "2.mp4",
-            "MD5": "5279581f472106218443e4d1375bd32d",
+            "MD5": "3ec94ad827f880c4dfc67f41d8bfa4a2",
             "date": "Upload your highlight clips to Discord/Tiktok/Youtube/Reddit/Twitter and mention us. We'll put clips together in a video. It will be shown above with your name!"
         }
     ]
