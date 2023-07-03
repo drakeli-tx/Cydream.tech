@@ -3,16 +3,40 @@
 
     "videos": [
         {
+            "author": "Clips From: NeotericNomad",
+            "file": "COMBATbyNeotericNomad.mp4",
+            "MD5": "059249B5B95EBCCE85EF0DEFA9F59FB4",
+            "date": "Upload your clips on Tiktok/Youtube/Twitter with BattleTalentPeak tag, or join our Discord/Reddit to share them. They may be shown above to all players with your name!"
+        },
+        {
+            "author": "Clips From: Slightly Serious Sam",
+            "file": "Howitzerbyslightlyserioussam.mp4",
+            "MD5": "62C90427F016803A667752B52FA186D6",
+            "date": "Upload your clips on Tiktok/Youtube/Twitter with BattleTalentPeak tag, or join our Discord/Reddit to share them. They may be shown above to all players with your name!"
+        },
+        {
+            "author": "Clips From: maxkaos8",
+            "file": "onlyupbymaxkaos8low.mp4",
+            "MD5": "ECF39D9EBA7D07E180F53F392E6CCEBF",
+            "date": "Upload your clips on Tiktok/Youtube/Twitter with BattleTalentPeak tag, or join our Discord/Reddit to share them. They may be shown above to all players with your name!"
+        },
+        {
+            "author": "Clips From: .52 Gal User",
+            "file": "spiderbossbydot52GalUserlow.mp4",
+            "MD5": "FC66B914726EE7260DAB84E87B5C09D1",
+            "date": "Upload your clips on Tiktok/Youtube/Twitter with BattleTalentPeak tag, or join our Discord/Reddit to share them. They may be shown above to all players with your name!"
+        },
+        {
             "author": "Clips From: ChiassonMickael",
             "file": "1.mp4",
             "MD5": "370f12cbcafbd5eb6449cbeece9a7fea",
-            "date": "Upload your highlight clips to Discord/Tiktok/Youtube/Reddit/Twitter and mention us. We'll put clips together in a video. It will be shown above with your name!"
+            "date": "Upload your clips on Tiktok/Youtube/Twitter with BattleTalentPeak tag, or join our Discord/Reddit to share them. They may be shown above to all players with your name!"
         },
         {
-            "author": "Clips From: jianzhe, fonzie, drake",
-            "file": "2.mp4",
-            "MD5": "3ec94ad827f880c4dfc67f41d8bfa4a2",
-            "date": "Upload your highlight clips to Discord/Tiktok/Youtube/Reddit/Twitter and mention us. We'll put clips together in a video. It will be shown above with your name!"
+            "author": "Clips From: Slightly Serious Sam",
+            "file": "Spiderman_Mach10byslightlyserioussamlow.mp4",
+            "MD5": "6BA8AD52001E428D286C60B422F36F2D",
+            "date": "Upload your clips on Tiktok/Youtube/Twitter with BattleTalentPeak tag, or join our Discord/Reddit to share them. They may be shown above to all players with your name!"
         }
     ]
 }
